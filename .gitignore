@@ -1,0 +1,8 @@
+node_modules/
+dist/
+release/
+*.log
+*.AppImage
+*.exe
+.DS_Store
+.vite/
